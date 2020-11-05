@@ -15,4 +15,7 @@ Some command and tips about Docker.
 11. **docker pull** - *Pull an image or a repository from a registry*
 12. **docker container run -it debian bash** - *enters in container terminal selected*
 13. **docker registry** - * Manage Docker registries*
+14. **docker rename CONTAINER NEW NAME** - * rename a container*
+15. **docker build -t nomeimage .**  - *builds the image*
+16. **docker image prune [OPTIONS]** - *remove unsued images*
 
